@@ -12,4 +12,4 @@ def multiply(x,y):
     
 #Divide implimentation    
 def divide(x,y):
-    pass
+    return x/y
